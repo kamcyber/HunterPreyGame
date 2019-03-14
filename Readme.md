@@ -23,3 +23,4 @@ This is a JAVA Gui Game project that consists :
 - This was the first game that I made. It is from 2016.
 - Mert KAYA
 
+![screenshot](https://user-images.githubusercontent.com/47145541/54379694-eefd5b00-469a-11e9-896c-3f8125ff17f4.png)
